@@ -261,12 +261,14 @@ i.fa.fa-pie-chart {
 }
 
 .slider_banner_info {
+    text-rendering:geometricPrecision;
+    font-size:x-large;
     position: absolute;
     text-align: center;
     top:45%;
     left: 60%;
     z-index: 999;
-    width: 53%;
+    color:white;
     padding: 0em 1em;
 }
 .slider_banner_info h4 {
